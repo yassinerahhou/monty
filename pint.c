@@ -1,9 +1,10 @@
 #include "monty.h"
 
 /**
- * pint - prints the value 
+ * pint - prints the value at the top of the stack, followed by a new line
+ *
  * @stack: Double pointer to the stack
- * @line_number: number of the commah j
+ * @line_number: Line number of the command in the source file
  *
  * Return: Nothing
  */
@@ -15,3 +16,4 @@ if (stack == NULL || *stack == NULL)
 }
 printf("%d\n", (*stack)->n);
 }
+
