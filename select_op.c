@@ -1,9 +1,12 @@
 #include "monty.h"
 
 /**
-  * select_op - Selects and returns
-  * @s: Pointer to string
-  * Return: Pointer to the function opcod
+  * select_op - Selects and returns the corresponding function pointer
+  *		based on the given opcode.
+  * @s: Pointer to the op string
+  *
+  * Return: Pointer to the function corresponding to the opcode,
+  *		or NULL if no match is found.
   */
 
 void (*select_op(char *s))(stack_t **, unsigned int)
