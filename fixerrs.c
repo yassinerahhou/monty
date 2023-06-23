@@ -4,7 +4,7 @@
 /**
  * fix_err01 - handbf fhff dgfrhrh
  * @nrdheaad: Double pfhfh hrhhrhj rhrhf rfhrh
- * @errno: error number to pfjhf tjrerrhjt gjtr ttrtte 
+ * @errno: error number to pfjhf tjrerrhjt gjtr ttrtt
  * @line_num: the line numberyr rhre guyyug tyutu
  * @line: the line where tryre jtgjtrj jrjry eyrytyuj
  * @str_mcode: operfhfh hrshfrfhf hfhfh fhreh
