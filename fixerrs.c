@@ -39,3 +39,4 @@ void fix_err01(stack_t **nrdheaad, int errno,
 	if (line)
 		free(line);
 	exit(EXIT_FAILURE);
+}

@@ -22,3 +22,4 @@ void fct__pchar(stack_t **stack, unsigned int ly_numbrs_rr)
 		fix_err01(stack, ERROR_ASCII, ly_numbrs_rr, NULL, NULL);
 
 	printf("%c\n", n);
+}
