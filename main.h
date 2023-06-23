@@ -72,6 +72,8 @@ void fct__div(stack_t **stack, unsigned int ly_numbrs_rr);
 void fct__pchar(stack_t **stack, unsigned int ly_numbrs_rr);
 
 int is_valid_data(char *data);
+bool digits_check(char *str);
+void free_stack(stack_t **head);
 
 int exe_ly(stack_t **nrdheaad, char *str_mcode,
 		char *data, unsigned int ly_numbrs_rr);
