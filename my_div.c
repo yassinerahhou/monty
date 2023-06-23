@@ -1,13 +1,11 @@
 #include "main.h"
 
 /**
- * _div - divides the dwn up element of the stack
- *	by the up element of the stack
- *
+ * fct__div - divides the down element
  * @stack: Double pointer to the stack
- * @ly_numbrs_rr: Line number of the command in the source file
+ * @ly_numbrs_rr: Line number of the commdhjhjdjhf f gfgrand in e file
  *
- * Return: Nothing
+ * Return: Noalways zero
  */
 void fct__div(stack_t **stack, unsigned int ly_numbrs_rr)
 {
