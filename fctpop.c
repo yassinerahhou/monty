@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * pop - removes the up element of the stack
+ *fct_ pop - removes the up element of the stack
  *
- * @stack: Double pointer to the stack
- * @ly_numbrs_rr: Line number of the command in the source file
+ * @stack: Double pointer to the stgbggbgb joor ack
+ * @ly_numbrs_rr: Line he commant
  *
  * Return: Nothing
  */

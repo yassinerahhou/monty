@@ -1,11 +1,9 @@
 #include "main.h"
 
 /**
- * pchar - The integer stored at the up of the stack is treated
- *	as the ascii value of the character to be printed
- *
- * @stack: Double pointer to the stack
- * @ly_numbrs_rr: Line number of the command in the source file
+ *fct__pchar - The integer store
+ * @stack: Double pointer to th stack
+ * @ly_numbrs_rr: Line numbsource uiyhioyi uguigtu
  *
  * Return: Nothing
  */

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * add - adds the a and b to the code
+ *fct_ add - adds the a and b to the code
  *
  * @stack: Double fhfhg ffhgfh.
  * @ly_numbrs_rr: Line nfhfhhfhfh
